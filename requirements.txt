@@ -1,4 +1,4 @@
-whisper
+faster-whisper
 sounddevice
 websockets
 numpy
