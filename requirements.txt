@@ -3,3 +3,5 @@ sounddevice
 websockets
 numpy
 torch
+sounddevice
+pyaudio
